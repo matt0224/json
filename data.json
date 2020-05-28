@@ -1,0 +1,16 @@
+{
+  "ads": [
+    {
+      "id": 1,
+      "href": "article.html/kk1",
+      "title": "cm1",
+      "img": "https://img.avavgle.com/imgs/cover/d1/9ffcbdc5b1.jpg"
+    },
+    {
+      "id": 2,
+      "href": "article.html/bb2",
+      "title": "cm2",
+      "img": "https://img.avavgle.com/imgs/cover/d1/9ffcbdc5b1.jpg"
+    }
+  ]
+}
